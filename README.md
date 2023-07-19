@@ -16,3 +16,5 @@ Create new calculated columns and DAX measures
 
 Design an interactive report to analyze and visualize the data
 
+# Report Screenshot
+![Summary](https://github.com/harisdhukka/Adventure-Works-PowerBI/assets/73034518/6e0b51e3-be0b-440d-a173-14f3c385536d)
